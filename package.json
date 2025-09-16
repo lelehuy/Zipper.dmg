@@ -1,0 +1,17 @@
+{
+  "name": "zipper-electron",
+  "version": "1.0.0",
+  "description": "ZIP + Password (AES-256) drag-and-drop GUI — Electron + 7-Zip",
+  "main": "src/main.js",
+  "author": "Saleh",
+  "license": "MIT",
+  "scripts": {
+    "dev": "electron .",
+    "build": "electron-builder --mac dmg",
+    "clean": "rm -rf dist out node_modules"
+  },
+  "devDependencies": {
+    "electron": "^31.2.0",
+    "electron-builder": "^24.13.3"
+  }
+}
