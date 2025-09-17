@@ -1,1 +1,0 @@
-a85dbb5ea058434898a308c118b0e8b7f8552231e35f371da38ff3b6b4fdeda7  Zipper-1.0.0-mac-arm64.dmg
