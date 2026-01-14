@@ -1,6 +1,6 @@
 {
   "name": "zipper-electron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ZIP + Password (AES) drag-and-drop GUI – Electron + 7-Zip",
   "main": "src/main.js",
   "repository": {
