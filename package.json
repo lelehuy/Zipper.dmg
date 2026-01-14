@@ -5,10 +5,10 @@
   "main": "src/main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/ZipperElectron.git"
+    "url": "https://github.com/lelehuy/ZipperElectron.git"
   },
   "author": "Saleh",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "scripts": {
     "dev": "electron .",
     "build": "electron-builder --mac dmg",

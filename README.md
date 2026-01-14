@@ -1,26 +1,45 @@
 # Zipper (AES)
 
-ZIP + Password (AES) drag-and-drop GUI – Electron + 7-Zip.
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/lelehuy/ZipperElectron?color=blue&style=flat-square)](https://github.com/lelehuy/ZipperElectron/releases)
+[![GitHub License](https://img.shields.io/github/license/lelehuy/ZipperElectron?style=flat-square)](https://github.com/lelehuy/ZipperElectron/blob/main/LICENSE)
+[![GitHub all releases](https://img.shields.io/github/downloads/lelehuy/ZipperElectron/total?style=flat-square)](https://github.com/lelehuy/ZipperElectron/releases)
+[![GitHub contributors](https://img.shields.io/github/contributors/lelehuy/ZipperElectron?style=flat-square)](https://github.com/lelehuy/ZipperElectron/graphs/contributors)
 
-## Description
-Zipper is a lightweight Electron-based application that provides a simple graphical interface for creating password-protected ZIP archives using AES-256 encryption. It serves as a wrapper for the powerful 7-Zip command-line tool, making it easy to secure files and folders with a simple drag-and-drop action.
+Zipper is a lightweight, secure tool designed to help you compress files and folders with high-level AES-256 encryption. Effortlessly secure your data with a simple drag-and-drop interface.
 
-## Features
-- **Drag & Drop**: Easily select files or folders by dragging them into the application.
-- **AES-256 Encryption**: Secure your archives with industry-standard encryption.
-- **Auto-Update**: Stay up to date with automatic checks for new releases on GitHub.
-- **Clean UI**: A modern, slate-themed interface that fits perfectly on macOS.
+## 🚀 Key Features
 
-## Repository Details
-- **Description**: Zipper (AES) – Secure your files with AES-256 encryption using a simple drag-and-drop Electron GUI powered by 7-Zip.
-- **Short description**: ZIP + Password (AES) drag-and-drop GUI – Electron + 7-Zip.
-- **Website**: https://github.com/YOUR_GITHUB_USERNAME/ZipperElectron
-- **Topics**: `electron` `7-zip` `aes-256` `macos` `utility` `zipper` `gui` `productivity`
+- **Drag-and-Drop Interface**: No complex menus. Just drag your files and they're ready to zip.
+- **AES-256 Encryption**: Industry-standard security to keep your archives safe.
+- **Fast & Lightweight**: Powered by the robust 7-Zip engine.
+- **Native Experience**: Beautifully crafted for macOS with a clean, modern UI.
+- **Auto-Updates**: Stay up-to-date with the latest security features and improvements automatically.
 
-## Requirements
-- macOS (tested)
-- 7-Zip installed (via Homebrew: `brew install sevenzip`)
+## 📦 How to Install
 
-## License
-License 2026 leh
-© 2026 Saleh
+1. Go to the [Releases](https://github.com/lelehuy/ZipperElectron/releases) page.
+2. Download the latest `.dmg` file.
+3. Open the `.dmg` and drag **Zipper** to your Applications folder.
+
+> **Note**: Zipper requires **7-Zip** to be installed on your system.
+> If you have Homebrew, run: `brew install sevenzip`
+
+## 🛠 How to Use
+
+1. **Open Zipper**.
+2. **Set a Password** in the provided field (optional but recommended for security).
+3. **Drag and Drop** files or folders onto the app window.
+4. Your encrypted `.zip` file will be created in the same folder as the source items.
+
+## 📋 Requirements
+
+- **macOS** 10.15 or later.
+- **7-Zip** CLI installed (`sevenzip` formula in Homebrew).
+
+## 📄 License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details.
+
+© 2026 Saleh. All rights reserved.
+
+---
+Looking for technical details? Check out [DEVELOPMENT.md](./DEVELOPMENT.md).
