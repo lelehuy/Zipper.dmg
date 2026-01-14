@@ -1,9 +1,9 @@
-# Zipper (AES)
+# Zipper
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/lelehuy/ZipperElectron?color=blue&style=flat-square)](https://github.com/lelehuy/ZipperElectron/releases)
-[![GitHub License](https://img.shields.io/github/license/lelehuy/ZipperElectron?style=flat-square)](https://github.com/lelehuy/ZipperElectron/blob/main/LICENSE)
-[![GitHub all releases](https://img.shields.io/github/downloads/lelehuy/ZipperElectron/total?style=flat-square)](https://github.com/lelehuy/ZipperElectron/releases)
-[![GitHub contributors](https://img.shields.io/github/contributors/lelehuy/ZipperElectron?style=flat-square)](https://github.com/lelehuy/ZipperElectron/graphs/contributors)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/lelehuy/Zipper.dmg?color=blue&style=flat-square)](https://github.com/lelehuy/Zipper.dmg/releases)
+[![GitHub License](https://img.shields.io/github/license/lelehuy/Zipper.dmg?style=flat-square)](https://github.com/lelehuy/Zipper.dmg/blob/main/LICENSE)
+[![GitHub all releases](https://img.shields.io/github/downloads/lelehuy/Zipper.dmg/total?style=flat-square)](https://github.com/lelehuy/Zipper.dmg/releases)
+[![GitHub contributors](https://img.shields.io/github/contributors/lelehuy/Zipper.dmg?style=flat-square)](https://github.com/lelehuy/Zipper.dmg/graphs/contributors)
 
 Zipper is a lightweight, secure tool designed to help you compress files and folders with high-level AES-256 encryption. Effortlessly secure your data with a simple drag-and-drop interface.
 
@@ -17,7 +17,7 @@ Zipper is a lightweight, secure tool designed to help you compress files and fol
 
 ## 📦 How to Install
 
-1. Go to the [Releases](https://github.com/lelehuy/ZipperElectron/releases) page.
+1. Go to the [Releases](https://github.com/lelehuy/Zipper.dmg/releases) page.
 2. Download the latest `.dmg` file.
 3. Open the `.dmg` and drag **Zipper** to your Applications folder.
 

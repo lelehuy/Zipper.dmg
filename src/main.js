@@ -18,7 +18,7 @@ function createWindow() {
   const win = new BrowserWindow({
     width: 760,
     height: 560,
-    title: 'Zipper (AES)',
+    title: 'Zipper',
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
       sandbox: false

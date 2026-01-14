@@ -20,4 +20,4 @@ dmg:
 publish:
   provider: github
   owner: lelehuy
-  repo: ZipperElectron
+  repo: Zipper.dmg

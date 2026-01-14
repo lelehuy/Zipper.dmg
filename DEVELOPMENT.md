@@ -18,8 +18,8 @@ This document is for developers who want to contribute to Zipper or build it fro
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/lelehuy/ZipperElectron.git
-   cd ZipperElectron
+   git clone https://github.com/lelehuy/Zipper.dmg.git
+   cd Zipper.dmg
    ```
 
 2. **Install dependencies**
