@@ -1,0 +1,23 @@
+appId: com.lelehuy.zipper
+productName: Zipper
+artifactName: ${productName}-${version}-${os}-${arch}.${ext}
+
+files:
+  - "src/**/*"
+  - "package.json"
+asar: true
+
+mac:
+  category: public.app-category.utilities
+  target:
+    - dmg
+  icon: "assets/icon.icns"
+
+dmg:
+  icon: "assets/icon.icns"
+  iconSize: 128
+
+publish:
+  provider: github
+  owner: YOUR_GITHUB_USERNAME
+  repo: ZipperElectron
