@@ -1,9 +1,8 @@
 # Zipper
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/lelehuy/Zipper.dmg?color=blue&style=flat-square)](https://github.com/lelehuy/Zipper.dmg/releases)
-[![GitHub License](https://img.shields.io/github/license/lelehuy/Zipper.dmg?style=flat-square)](https://github.com/lelehuy/Zipper.dmg/blob/main/LICENSE)
-[![GitHub all releases](https://img.shields.io/github/downloads/lelehuy/Zipper.dmg/total?style=flat-square)](https://github.com/lelehuy/Zipper.dmg/releases)
-![Platform macOS](https://img.shields.io/badge/platform-macOS-lightgrey?style=flat-square)
+[![GitHub License](https://img.shields.io/github/license/lelehuy/Zipper.dmg?style=for-the-badge&logo=gnu&logoColor=white&label=License&color=007ec6)](https://github.com/lelehuy/Zipper.dmg/blob/main/LICENSE)
+![Platform macOS](https://img.shields.io/badge/Platform-macOS-gray?style=for-the-badge&logo=apple&logoColor=white)
+[![GitHub all releases](https://img.shields.io/github/downloads/lelehuy/Zipper.dmg/total?style=for-the-badge&logo=github&label=downloads&color=44cc11)](https://github.com/lelehuy/Zipper.dmg/releases)
 
 Zipper is a lightweight, secure tool designed to help you compress files and folders with high-level AES-256 encryption. Effortlessly secure your data with a simple drag-and-drop interface.
 
