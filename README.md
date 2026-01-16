@@ -6,6 +6,8 @@
 
 Zipper is a lightweight, secure tool designed to help you compress files and folders with high-level AES-256 encryption. Effortlessly secure your data with a simple drag-and-drop interface.
 
+![Zipper App Screenshot](Screenshot%202026-01-16%20at%2010.11.50.png)
+
 ## 🚀 Key Features
 
 - **Drag-and-Drop Interface**: No complex menus. Just drag your files and they're ready to zip.
@@ -36,9 +38,11 @@ Zipper is a lightweight, secure tool designed to help you compress files and fol
 - **7-Zip** CLI installed (`sevenzip` formula in Homebrew).
 
 ## 📄 License
+
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details.
 
 © 2026 Saleh. All rights reserved.
 
 ---
+
 Looking for technical details? Check out [DEVELOPMENT.md](./DEVELOPMENT.md).
